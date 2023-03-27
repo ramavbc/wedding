@@ -155,10 +155,10 @@
 			<ul class="right-sidebar">
 			    
 			    	<!--chat-->
-				<li onclick="scrollToElement('fh5co-testimonial')" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAADe0lEQVRoge2YTWgVVxiG35Mr1n+qopYkik1dFKRiJGgWLmqrLsSFPy3Y1G6soFkJdulWcFHBgAFRQcGFLgRr1W6kLvz/SdpNQQqtfyXG+oMuaheamMfFzMXPw0zuzOTcG5H7bu7MOe/3fe878805M1eqo4463m8ADUAHcBroBwYJg8E43ylgA9BQDfEtwO+BBFfCb8DHeTW64cRLuiZpxkguQk48ktTunLuTNSDRQHw7eyW1BhKWB72SljjnhrKQ0/pug0ZHvCS1Sfo6KznNQEcYLYWRuX6agUWBhBRFW/kAmDscMc3AzKBy8mOWOb4YLyiJSDNQCqtH9yQtlzRJ0gpJ/1Tg2/rNko7k2ieqsMZ/6eVfUSkgQcv6JK3hd79kXPfOrxXI8V3SYK0MtFc4z4KFmZlVaKG7cdtMAlYC9wq00ECS1rSdmKTxWsI553wt5TGLIi10QNISRUttu6SDBTVWDyl39RXQmcLvBIZG0GJZWih7VyTkGwQ2VYj5Fhh4Fw0MAB3e/EagD9iYwcQzYAswG5gOrANu1crAC7wNBNhM1E7Ev997818BL+P52yR8pACTgfPVNvACWOONbzXiyxgCtnm8VcDNJPGGMwE4Wy0D/wMrvbEfSH9Qh4DtHr/BHI8HThB9Njaa8XHAL9Uw8Ll3viPtSnnYkZBrInDOcP4C5pj5sbG5cAY8ATszigfoAcab2CnAxQTeXeATwxsDHAtuIKf4G8A0E/shcHUY/gNgvuGXgENBDAAO6Moh/gIw2cRPjQ1VwkNggVd3bwgDB3KIPwtMMLGzgD9yxD8GWk28A/aM1MCDjMVPA+NMXBPwZw7xZTwFFifoKBnOYB4DZzIUPQV8YGLmEK0wRfEcWObpaDLzfXkMfFOh2FFgjOHPI8M7fkYTX5i89tPT/6ob1kAJ6E0pchgoGe6nwP0A4sv41eTuNuM/ZjYQBzcDd7zk+3h7h/0M+Deg+H6gOc79EfCfmVuay0CcpIU3L11dgDNzi4AnAcVfAZri3A44buZ6bO28JpzvHmgnek0eCQaAv4GfgNXEdzaut8vjLktW946BqG2Oe+J3j7auVBAtFo1Eq0030SpkcRKzYIQoOJvoRawW2I9ZqkOaaAEuVVF4Dzl6vtCTTfTArVX0d1+rpEZJRa7WK0kPJd2XdF7Sz5IuO+dG/X+pOuqoo0Z4DePtUHAz1eX1AAAAAElFTkSuQmCC)"></li>
+				<li onclick="scrollToElement('fh5co-testimonial')" style="background-image: url(/images/map-location.svg)"></li>
 				
 				<!--gallery-->
-				<li onclick="scrollToElement('fh5co-gallery')" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABKklEQVRIidWVq04DQRhGv900QUFFCVWgUYQ6PAgeAUVwSDwplocoCamsqKlE4ICQECDlAfAYoAoDHEQ7SdnO7lw6CE6yYi45384/kxnpv5NVDQJ1SXuSdiVtSGpOhl4kDSVdSOplWTYKSgVqwAnwjps3oA3UfOVN4NpDXOQKWHHJ68BDhNxwDyxVBZzPITeclclbwHeCgC9g03jzqYwDOU6VJ7mkfVvAdgK5YccWsGqZ2JC0HNA2rNkCsEwslszVNizM9ABPCTbYMLSt4LLkb2K4sQV0ZS9TDD1rL9BJUJ670ljGV8XjHPJPYKtybUADuI0MOPUqIOPr+hgYBcgHQO62/w5aBA6BPvAMvE6+In1g9uzHUpB38X1sAgM+gKOk4qmANrD+J/JQfgANB//YYXlyuAAAAABJRU5ErkJggg==)"></li>
+				<li onclick="scrollToElement('fh5co-gallery')" style="background-image: url(/images/hand-holding-dollar.svg)"></li>
 			
 			</ul>
 			<!--calendar-->
@@ -361,7 +361,7 @@
 					
 					<div class="map">
 			<div class="map-part">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d507181.9212717421!2d106.9623180501058!3d-6.7260061168665395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69b64ee022d88b%3A0xca677b434f1c4f97!2sVilla%20Nadia!5e0!3m2!1sid!2sid!4v1678625819136!5m2!1sid!2sid" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d507181.9212717421!2d106.9623180501058!3d-6.7260061168665395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69b64ee022d88b%3A0xca677b434f1c4f97!2sVilla%20Nadia!5e0!3m2!1sid!2sid!4v1678625819136!5m2!1sid!2sid" style="border:0; width: 100%; height: 500px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			
 		</div><br>
 		
@@ -445,15 +445,21 @@
 					<h3 style="color: #bf9b73">Untuk yang berhalangan hadir, silahkan gunakan fitur dibawah ini</h3><br>
 					    <h2>BRI</h2>
 					    A.n. Siti Solihat
-				    	<p id="p1">224501011556505</p><button onclick="copyToClipboard('#p1')" class="btn btn-primary"><i class="icon-copy"></i></button><br>
+				    	<p id="p1" style="margin-bottom: 5px;"><b>224501011556505</b></p>
+						<button type="button" id="copy-p1-success" class="btn btn-success" style="display: none;">Nomor berhasil disalin</button>
+						<button type="button" id="copy-p1-button" onclick="copyToClipboard('#p1')" class="btn btn-primary"><i class="icon-copy"></i></button><br>
 				    	*Silahkan gunakan tombol copy diatas, lalu salin pada aplikasi e-banking/e-wallet.
-					<h2>MANDIRI</h2>
+					<h2 style="margin-top: 60px;">MANDIRI</h2>
 					A.n. Akhmad Imaduddin Ramadhan
-					<p id="p2">1330026218487</p><button onclick="copyToClipboard('#p2')" class="btn btn-primary"><i class="icon-copy"></i></button><br>
+					<p id="p2" style="margin-bottom: 5px;"><b>1330026218487</b></p>
+					<button type="button" id="copy-p2-success" class="btn btn-success" style="display: none;">Nomor berhasil disalin</button>
+					<button type="button" id="copy-p2-button" onclick="copyToClipboard('#p2')" class="btn btn-primary"><i class="icon-copy"></i></button><br>
 				    	*Silahkan gunakan tombol copy diatas, lalu salin pada aplikasi e-banking/e-wallet.
-					<h2>OVO</h2>
+					<h2 style="margin-top: 60px;">OVO</h2>
 					A.n. Akhmad Imaduddin Ramadhan
-					<p id="p3">085156496390</p><button onclick="copyToClipboard('#p3')" class="btn btn-primary"><i class="icon-copy"></i></button><br>
+					<p id="p3" style="margin-bottom: 5px;"><b>085156496390</b></p>
+					<button type="button" id="copy-p3-success" class="btn btn-success" style="display: none;">Nomor berhasil disalin</button>
+					<button type="button" id="copy-p3-button" onclick="copyToClipboard('#p3')" class="btn btn-primary"><i class="icon-copy"></i></button><br>
 				    	*Silahkan gunakan tombol copy diatas, lalu salin pada aplikasi e-banking/e-wallet.
 					<br/><br/>
 
@@ -837,7 +843,8 @@
 	}
 
 	function togglePlayButton1(play) {
-		document.getElementById("youtube-icon1").src = play ? "https://i.imgur.com/IDzX9gL.png" : "https://i.imgur.com/quyUPXN.png";
+		console.log('play-music-' + play);
+		document.getElementById("youtube-icon1").src = play ? "/images/volume-solid.svg" : "/images/volume-slash-solid.svg";
 	}
 
 	function toggleAudio1() {
@@ -872,12 +879,22 @@
 
 <script>
 function copyToClipboard(element) {
+  // remove # from element
+  var elementId = element.replace('#', ''); 
+  $('#copy-' + elementId + '-success').show();
+  $('#copy-' + elementId + '-button').hide();
+
   var $temp = $("<input>");
   $("body").append($temp);
   $temp.val($(element).text()).select();
   document.execCommand("copy");
   console.log('Content copied to clipboard')
   $temp.remove();
+
+  setTimeout(function() {
+	$('#copy-' + elementId + '-success').hide();
+  	$('#copy-' + elementId + '-button').show();
+  }, 2000);
 }
 </script>
 

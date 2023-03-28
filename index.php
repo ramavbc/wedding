@@ -307,7 +307,7 @@
 
 						</div>
 					</div>
-					<div class="col-md-6 col-sm-6 text-center">
+					<div class="col-md-6 col-sm-6 text-center" style="z-index: 100;">
 						<div class="event-wrap animate-box">
 							<h3 style="font-family: 'Oswald', Arial, serif;">Reservasi</h3>
 							<form action="#">

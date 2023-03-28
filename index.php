@@ -243,7 +243,7 @@
 						<p><span style="color: #bf9b73">Anak Pertama dari</span><br>
 							<span class="parents-font">Bapak Sukarman</span>
 							<br>
-							<span class="parents-font">Ibu Raden Nayu Firdausiah</span>
+							<span class="parents-font">Ibu R. N. Firdausiah Kurniawati</span>
 						</p>
 						<!--<div id="social-media-rehan">
 							<ul class="fh5co-social-icons">

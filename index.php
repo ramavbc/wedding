@@ -8,27 +8,26 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>The Wedding of Rama & Solihat</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="The Wedding of Rama and Solihat" />
+	<meta name="title" content="The Wedding of Rama & Solihat">
+	<meta name="description" content="Kami berharap Anda menjadi bagian dari hari istimewa kami!">
 	<meta name="keywords" content="wedding, wedding invitation, invitation, the wedding" />
 	<meta name="author" content="Rama & Solihat" />
 
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="The Wedding of Rama and Solihat"/>
-	<meta property="og:image" content="images/readme/fotokami.png"/>
-	
-	<meta property="og:site_name" content="The Wedding of Rama and Solihat"/>
-	<meta property="og:description" content="The Wedding of Rama and Solihat. Open source wedding invitation"/>
+	<meta property="og:title" content="The Wedding of Rama & Solihat"/>
+	<meta property="og:image" content="https://wedding.solihat.ramavbc.com/images/readme/fotokami-metatag.png"/>
+	<meta property="og:description" content="Kami berharap Anda menjadi bagian dari hari istimewa kami!">
+
+	<meta property="og:site_name" content="The Wedding of Rama & Solihat"/>
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@ngodingsolusi" />
-	<meta name="twitter:creator" content="@ngodingsolusi" />
-	<meta name="twitter:title" content="The Wedding of Rama and Solihat" />
-	<meta name="twitter:description" content="Open Source Wedding Invitation. The Wedding of Rama and Solihat" />
-	<meta name="twitter:image" content="images/readme/fotokami.png" />
+	<meta name="twitter:title" content="The Wedding of Rama & Solihat" />
+	<meta name="twitter:description" content="Kami berharap Anda menjadi bagian dari hari istimewa kami!" />
+	<meta name="twitter:image" content="https://wedding.solihat.ramavbc.com/images/readme/fotokami-metatag.png" />
 	
 
-	<link rel="icon" href="images/readme/fotokami.png">
+	<link rel="icon" href="images/readme/fotokami-metatag.png">
 
 	<!--
       //////////////////////////////////////////////////////

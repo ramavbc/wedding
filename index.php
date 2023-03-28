@@ -209,6 +209,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h1>Rama & Solihat</h1>
+					<p style="color: #bf9b73">Akad Nikah : 10 Des 2022</p>
 					<p style="color: #bf9b73">Kami berharap Anda menjadi bagian dari hari istimewa kami!</p>
 					<div class="simply-countdown simply-countdown-wedding"></div>
 					<br>
